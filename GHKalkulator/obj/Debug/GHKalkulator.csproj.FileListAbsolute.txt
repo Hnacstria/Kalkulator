@@ -1,1 +1,10 @@
 C:\GITHUB\GHKalkulator\GHKalkulator\bin\Debug\GHKalkulator.exe.config
+C:\GITHUB\GHKalkulator\Kalkulator\GHKalkulator\bin\Debug\GHKalkulator.exe.config
+C:\GITHUB\GHKalkulator\Kalkulator\GHKalkulator\bin\Debug\GHKalkulator.exe
+C:\GITHUB\GHKalkulator\Kalkulator\GHKalkulator\bin\Debug\GHKalkulator.pdb
+C:\GITHUB\GHKalkulator\Kalkulator\GHKalkulator\obj\Debug\GHKalkulator.csprojResolveAssemblyReference.cache
+C:\GITHUB\GHKalkulator\Kalkulator\GHKalkulator\obj\Debug\GHKalkulator.Form1.resources
+C:\GITHUB\GHKalkulator\Kalkulator\GHKalkulator\obj\Debug\GHKalkulator.Properties.Resources.resources
+C:\GITHUB\GHKalkulator\Kalkulator\GHKalkulator\obj\Debug\GHKalkulator.csproj.GenerateResource.Cache
+C:\GITHUB\GHKalkulator\Kalkulator\GHKalkulator\obj\Debug\GHKalkulator.exe
+C:\GITHUB\GHKalkulator\Kalkulator\GHKalkulator\obj\Debug\GHKalkulator.pdb
